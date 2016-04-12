@@ -1804,6 +1804,9 @@ textarea.form-input {
   margin-left: auto;
   margin-right: auto;
 }
+.m-none{
+	margin:0rem;
+}
 .mt-10 {
   margin-top: 1rem;
 }
@@ -1827,6 +1830,9 @@ textarea.form-input {
 }
 .ml-5 {
   margin-left: .5rem;
+}
+.p-none{
+	padding: 0rem;
 }
 .pt-10 {
   padding-top: 1rem;
